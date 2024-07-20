@@ -1,8 +1,6 @@
-<div>
-  <h1>
-    Olaá!<img Src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Eu sou a Islânia Gomes 
-  </h1>
-</div>
+<img align="left" Src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=500&size=22&pause=1000&color=F78EAA&center=&vCenter=&repeat=verdadeiro&random=falso&width=435&lines=Ola%C3%A1!+Eu+sou+a+Isl%C3%A2nia+Gomes" alt="Typing SVG" /> </a>
 
 <div>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IslaniaGomes&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
